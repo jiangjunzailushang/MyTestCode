@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //第二次的修改
         setContentView(R.layout.activity_main);
+        //第三次的修改
+        TestView TestView = new TextView(this);
     }
 }
