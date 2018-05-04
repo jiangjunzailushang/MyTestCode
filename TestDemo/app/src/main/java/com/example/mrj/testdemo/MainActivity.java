@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //第三次的修改
         TestView TestView = new TextView(this);
+        TestView TestView1 = new TextView(this);
     }
 }
