@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         TestView TestView = new TextView(this);
         TestView TestView1 = new TextView(this);
 		TestView TestView2 = new TextView(this);
+        //新增加的ImageView
+        ImageView img = new ImageView(this);
     }
 }
